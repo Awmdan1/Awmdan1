@@ -1,0 +1,9 @@
+			items.map(({ title , Link }) => (
+						<a href={Link} target="_blank">  
+							<div class="relative flex flex-col p-6 bg-white dark:bg-slate-900 rounded shadow-xl hover:shadow-lg transition dark:border dark:border-slate-800">
+								<div class="flex items-center mb-4 text-center">					                   
+									<div class="ml-4 text-xl font-bold text-center">{title}</div>                                 
+								</div>
+							</div>
+						</a>  
+						))
