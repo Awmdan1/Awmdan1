@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there im kallong👋 follow me to see other projects
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awmdan1&show_icons=true&theme=blue-green)
 
