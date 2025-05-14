@@ -2,6 +2,11 @@
 
 <!--
 **Awmdan1/Awmdan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphakat&show_icons=true&theme=blue-green)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphakat&layout=compact&theme=blue-green)
+
 
 Here are some ideas to get you started:
 
